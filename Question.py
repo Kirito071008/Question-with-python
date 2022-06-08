@@ -10,7 +10,7 @@ else:
 next #use it to separate questions
 
 question2 = (input("For real?")) #Second Question
-if (question<"yes"):
+if (question>"yes"):
     print("Fuck") #everything you write here will appear if the answer is different
 
 else:
