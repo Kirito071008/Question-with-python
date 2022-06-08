@@ -14,4 +14,4 @@ if (question>"yes"):
     print("Fuck") #everything you write here will appear if the answer is different
 
 else:
-    print("<3") #everything you write here will appear if the answer was equal to (yes)
+    print("<3") #everything you write here will appear if the answer was equal to (question>yes)
